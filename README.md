@@ -1,4 +1,4 @@
-# README (English)
+# README 
 
 # SIT305 Task 10.1D - Improved AI Learning Assistant App
 
